@@ -1,5 +1,5 @@
 # dmoj-sols
-My solutions from [https://dmoj.ca](url). 
+My solutions from [https://dmoj.ca](url). My user: [https://dmoj.ca/user/subcluster](url)
 
 Problems are ranging in difficulty from about 7 points and above, from many different organizations and contests like DMOPC, CCC, COCI, and more.
 
